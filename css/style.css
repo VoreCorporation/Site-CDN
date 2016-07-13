@@ -595,7 +595,7 @@ img {
   transition: all .3s ease;
 }
 #pricing .pricing-list ul li {
-  text-align: center;
+  text-align: left;
   border-top: 1px dotted #676767;
   line-height: 50px;
   font-size: 18px;
