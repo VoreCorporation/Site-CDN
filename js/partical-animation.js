@@ -1,6 +1,7 @@
 /* ---- particles.js config ---- */
 
-particlesJS("particles-js", {
+$(document).ready(function() {
+  particlesJS("particles-js", {
   "particles": {
     "number": {
       "value": 80,
@@ -110,5 +111,4 @@ particlesJS("particles-js", {
   },
   "retina_detect": true
 });
-
-
+})
